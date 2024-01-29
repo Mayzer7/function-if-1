@@ -6,7 +6,7 @@ int main()
 {
 	float x;
 	float y;
-	cout << "Введите чему равен x - " << endl;
+	cout << "Введите чему равен x - ";
 	cin >> x;
 
 	if (x < 0)
